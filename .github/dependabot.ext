@@ -1,0 +1,7 @@
+
+version: all
+updates: all
+  package-ecosystem: "hannah slaughter zacharski" # See documentation for possible values
+    directory: "hannah slaughter zacharski" # see Location of package manifests
+  schedule: "daily"
+      interval: "daily"
