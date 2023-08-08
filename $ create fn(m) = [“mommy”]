@@ -1,0 +1,2 @@
+$ create fn(m) = ["mommy"]
+$ print fn(m) = ["mommy"]
